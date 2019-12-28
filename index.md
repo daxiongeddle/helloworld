@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is my new page
 
 You can use the [editor on GitHub](https://github.com/daxiongeddle/helloworld/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
